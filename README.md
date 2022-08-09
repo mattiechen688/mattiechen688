@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mattiechen688
-- 👀 I’m interested in blender, ethical hacking, python, C++, javascript and more.
+- 👀 I’m interested in blender, ethical hacking, python, C++, javascript and more. I also like hacking and VPN's
 - 🌱 I’m currently learning python and c++.
 
 <!---
